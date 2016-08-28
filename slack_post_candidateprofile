@@ -1,0 +1,11 @@
+{
+"text": 
+"
+<${editlink}|Profile - ${candidatefullname} - ${responseTimestamp;datetime(short)} (${consultant})> has been created and shared in google docs.
+
+*Instructions*
+```*1. Check* the document and download a new version via google docs if needed. 
+*2. Save* the complete PDF as an 'Adobe Document' in the Multimedia tab of the candidate's record in Microdec. Rename the file to 'Candidate Profile' in Microdec.
+*3. Send* it to the client. An editable copy will always be in google docs. You can download multiple file types and copy-paste the text into Microdec as a 'Candidate Profile' filetype in the Multimedia tab. ```
+“
+}
