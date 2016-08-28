@@ -1,0 +1,14 @@
+//*sample data from databox for the pusher.
+
+var Databox = require('databox');
+
+var client = new Databox({
+    push_token: '2cdt4yoytbvockc51cowgs4gsss84ow4s'
+});
+
+client.push({
+    key: 'sales',
+    value: 123000
+}, function(response){
+    console.log(response);
+});
